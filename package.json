@@ -1,0 +1,8 @@
+{
+“name”: “greeter-bot”,
+“version”: “1.0.0”,
+“description”: “My First Espurr Discord Bot”,
+“main”: “bot.js”,
+“author”: “Remi”,
+“dependencies”: {}
+}
